@@ -22,8 +22,10 @@ Contributing
 
 License
 
-##**🔍 Overview**
+**🔍 Overview**
+
 AirCalc is designed to make math input more natural, fun, and accessible. By using MediaPipe and OpenCV, it recognizes a variety of hand gestures through your webcam, translating them into numbers, operators, and commands. This project is ideal for:
+
 Touchless interfaces (e.g., public kiosks, accessibility tools)
 Educational demonstrations
 Experimenting with computer vision and gesture recognition
@@ -53,14 +55,14 @@ Numbers
 
 Operators
 
-Addition (+): 1 finger up on each hand (index fingers), hands apart.
-Subtraction (−): 1 finger up on one hand, 2 on the other (or vice versa).
-Multiplication (×): 1 finger up on one hand, 3 on the other (or vice versa).
-Division (÷): 1 finger up on one hand, 4 on the other (or vice versa).
-Square Root (√): Both hands, only pinky finger up.
-Equals (=): Both hands, all fingers down (fists).
-Percentage (%): Both hands, only index and middle fingers up (peace sign).
-Clear: Both hands, all 5 fingers up.
+->Addition (+): 1 finger up on each hand (index fingers), hands apart.
+->Subtraction (−): 1 finger up on one hand, 2 on the other (or vice versa).
+->Multiplication (×): 1 finger up on one hand, 3 on the other (or vice versa).
+->Division (÷): 1 finger up on one hand, 4 on the other (or vice versa).
+->Square Root (√): Both hands, only pinky finger up.
+->Equals (=): Both hands, all fingers down (fists).
+->Percentage (%): Both hands, only index and middle fingers up (peace sign).
+->Clear: Both hands, all 5 fingers up.
 
 Exit: 1 finger up on each hand, index fingertips close together.
 
