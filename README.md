@@ -1,5 +1,5 @@
 # GestureCalc -  A Real-Time Gesture-Based Calculator
-AirCalc is an innovative, real-time gesture-based calculator that leverages computer vision and machine learning to allow users to perform mathematical operations using only their hands and a webcam. Designed for accessibility, education, and futuristic human-computer interaction, AirCalc transforms your webcam into a touchless math input device, recognizing hand gestures to build and solve math expressions live on screen.
+GestureCalc is an innovative, real-time gesture-based calculator that leverages computer vision and machine learning to allow users to perform mathematical operations using only their hands and a webcam. Designed for accessibility, education, and futuristic human-computer interaction, GestureCalc transforms your webcam into a touchless math input device, recognizing hand gestures to build and solve math expressions live on screen.
 
 **📚 Table of Contents**
 Overview
@@ -19,7 +19,7 @@ Overview
 
 **🔍 Overview**
 
-AirCalc is designed to make math input more natural, fun, and accessible. By using MediaPipe and OpenCV, it recognizes a variety of hand gestures through your webcam, translating them into numbers, operators, and commands. This project is ideal for:
+GestureCalc is designed to make math input more natural, fun, and accessible. By using MediaPipe and OpenCV, it recognizes a variety of hand gestures through your webcam, translating them into numbers, operators, and commands. This project is ideal for:
 
 Touchless interfaces (e.g., public kiosks, accessibility tools)
 Educational demonstrations
