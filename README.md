@@ -4,19 +4,19 @@ AirCalc is an innovative, real-time gesture-based calculator that leverages comp
 **📚 Table of Contents**
 Overview
 
-**Key Features**
+●**Key Features**
 
-**How It Works**
+●**How It Works**
 
-**Gesture Guide**
+●**Gesture Guide**
 
-**Technical Details**
+●**Technical Details**
 
-**Setup & Installation**
+●**Setup & Installation**
 
-**Usage**
+●**Usage**
 
-**Troubleshooting**
+●**Troubleshooting**
 
 
 **🔍 Overview**
