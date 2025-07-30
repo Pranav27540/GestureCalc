@@ -12,8 +12,6 @@ Overview
 
 ●**Technical Details**
 
-●**Setup & Installation**
-
 ●**Usage**
 
 ●**Troubleshooting**
@@ -70,7 +68,7 @@ Manual Controls
 Clear: Press 'c' on the keyboard.
 Exit: Press 'q' or 'Esc' on the keyboard.
 
-🔧 Technical Details
+**🔧 Technical Details**
 Language: Python 3.10
 
 **Libraries:**
