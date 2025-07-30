@@ -45,7 +45,9 @@ Evaluation: When you signal 'equals', the expression is evaluated and the result
 Error Handling: If the camera is disconnected or unavailable, AirCalc displays a clear message and waits for reconnection.
 
 **✋ Gesture Guide**
+
 Numbers
+
 0–5: Show 0–5 fingers on one hand.
 
 6–9: Show 5 fingers on one hand and 1–4 on the other (6 = 5+1, 7 = 5+2, etc.).
