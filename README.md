@@ -22,7 +22,7 @@ Contributing
 
 License
 
-🔍 Overview
+#🔍 Overview
 AirCalc is designed to make math input more natural, fun, and accessible. By using MediaPipe and OpenCV, it recognizes a variety of hand gestures through your webcam, translating them into numbers, operators, and commands. This project is ideal for:
 
 Touchless interfaces (e.g., public kiosks, accessibility tools)
